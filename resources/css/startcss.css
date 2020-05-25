@@ -1,0 +1,24 @@
+.boxmodel {
+	background-color: #72857C;
+	width: 650px;
+	padding: 20px;
+	margin: 15px auto;
+}
+
+.boxmodel li {
+	list-style: square;
+	list-style-position: inside;
+	font-size: 18px;
+}
+
+.boxmodel h2 {
+	padding-top: 20px;
+}
+
+.inline-block {
+	border: 1px solid white;
+	/*padding: 10px;*/
+	margin: 20px;
+	display: inline-block;
+	height: 20px;
+}

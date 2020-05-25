@@ -1,0 +1,56 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+}
+
+h1 {
+    font-family: Athelas, monospace;
+    color: #FFFFFF;
+    line-height: 30px;
+    font-size: 30px;
+}
+
+h2 {
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+h3 {
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+
+body{
+	background: #1e1e1e;
+	color: #FFFFFF;
+	position: relative;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	line-height: 20px;
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+
+.ucase {
+	text-transform: uppercase;
+}
+
+.box_one {
+	position: relative;
+	top: 90px;
+	padding: 50px;
+	margin-bottom: 100px;
+}
+
+.login {
+	margin: 30px 40px;
+}
+

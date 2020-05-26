@@ -23,6 +23,5 @@ Route::get('zara/meinLebenslauf', function () {
 });
 
 Route::get('cvpage','IndexController@showCvPage');
-Route::get('cvpage2','IndexController@showCvPage2');
 Route::get('contact','IndexController@showContact');
 Route::get('experience','IndexController@showExperience');

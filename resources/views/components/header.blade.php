@@ -1,3 +1,10 @@
-<div class="h-8 sm:h-12 md:h-16 lg:h-20 xl:h-24 bg-gray-900 fixed w-full">
-	<h1 class="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl text-center uppercase text-gray-500">Sarah Lindner CV</h1>
-</div>
+<header>
+	<div class="flex justify-between flex-wrap tracking-wider text-gray-200 h-24 sm:h-24 md:h-32 lg:h-48 w-full">
+		<div class="uppercase font-bold text-xs md:text-base lg:text-lg p-2 mx-auto md:ml-0">Sarah Lindner</div>
+		<div class="uppercase text-sm md:text-base lg:text-lg mx-auto md:mr-0 p-2">
+			<a href="cvpage" class="hover:underline p-2">Profile</a>
+			<a href="experience" class="hover:underline p-2">Experience</a>
+			<a href="contact" class="hover:underline p-2">Contact</a>
+		</div>	
+	</div>
+</header>

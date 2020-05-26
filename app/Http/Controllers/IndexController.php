@@ -17,11 +17,6 @@ class IndexController extends Controller
         return view('cv_page');
     }
 
-    public function showCvPage2()
-    {
-        return view('cv_page2');
-    }
-
      public function showContact()
     {
         return view('contact');

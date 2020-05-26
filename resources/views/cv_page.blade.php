@@ -8,11 +8,5 @@
 
 @include('components.header')
 
-@include('components.top_section')
-
-@include('components.short_presentation')
-
-@include('components.curriculum')
-
+@include('components.profile')
 @endsection	
-
